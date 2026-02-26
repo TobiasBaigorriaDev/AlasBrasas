@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./assets/cover.png" alt="Portada del proyecto" />
+  <img src="./assets/cover.jpg" alt="Portada del proyecto" />
 </p>
